@@ -1,0 +1,13 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
